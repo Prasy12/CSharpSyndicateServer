@@ -1,0 +1,30 @@
+[
+  {
+    "Id": "211",
+    "Brand": "Lenovo",
+    "Model": "M110 Optical Wired",
+    "Price": 299,
+    "Stock": 46
+  },
+  {
+    "Id": "222",
+    "Brand": "HP",
+    "Model": "HP S500",
+    "Price": 360,
+    "Stock": 49
+  },
+  {
+    "Id": "233",
+    "Brand": "Zebronics",
+    "Model": "Optical Wired",
+    "Price": 285,
+    "Stock": 47
+  },
+  {
+    "Id": "244",
+    "Brand": "Dell",
+    "Model": "WM 126",
+    "Price": 719,
+    "Stock": 49
+  }
+]
